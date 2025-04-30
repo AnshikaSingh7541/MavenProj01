@@ -11,12 +11,7 @@ public class App
        App app=new App();
       
        
-       System.out.println("good evenong ayush sir");
-       
-       System.out.println("kodnest");
-       
-       
-       System.out.println("Anshika singh");
+      System.out.println("Hello java");
       
     		   
     }
