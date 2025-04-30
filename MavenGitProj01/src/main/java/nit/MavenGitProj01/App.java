@@ -10,7 +10,7 @@ public class App
     {
        App app=new App();
        System.out.println(app.add(1, 2));
-       System.out.println("good evening");
+       
        System.out.println("good evenong ayush sir");
       
     		   
