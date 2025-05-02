@@ -6,7 +6,7 @@ public class UPIPayment {
 	
 
 	public String upiDone(String s,double amount) {
-		return "Transaction is done"+new Random(50000);
+		return "Transaction is done for"+amount+" "+new Random(50000);
 	}
 	
 }
